@@ -113,24 +113,7 @@ section li img {
     border-style: solid;
 }
 
-.planets {
-    display: inline-block;
-    vertical-align: top;
-    width: 45%;
-    text-align: center;
-}
 
-.planet {
-    min-height: 700px;
-    vertical-align: top;
-    width: 80%;
-    margin: 0 auto;
-}
-
-.planet p {
-    margin-left: auto;
-    margin-right: auto;
-}
 
 #main-content {
     background-color: white;
@@ -258,23 +241,10 @@ section#calculatorResult h2 {
 }
 
 .copyright {
-    color: white;
+    color: black;
     text-align: center;
 }
 
 #submitbutton {
     margin-left: 225px;
-}
-
-#listproductdtl {
-    margin-left: 30px;
-}
-
-#price {
-    color: #3877fe;
-}
-
-#addtocartcontainer {
-    margin-left: 20px;
-    
 }
